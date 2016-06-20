@@ -1,4 +1,7 @@
+# 
 # FILE MANAGEMENT
+
+
 
 | touch [file] | Create new file |
 | pwd | Full path to working directory |
