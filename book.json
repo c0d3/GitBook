@@ -9,7 +9,8 @@
         "customtheme",
         "extend-default-theme",
         "facebook",
-        "gitbook-footer"
+        "gitbook-footer",
+        "fontsettings"
     ],
     "pluginsConfig": {}
 }
