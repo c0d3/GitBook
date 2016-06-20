@@ -28,7 +28,8 @@
         "toolbar",
         "share",
         "sharing",
-        "simple"
+        "simple",
+        "structured-toc"
     ],
     "pluginsConfig": {
         "sharing": {
