@@ -45,7 +45,8 @@
         "headers",
         "autocover",
         "edit-link",
-        "rss"
+        "rss",
+        "github-buttons"
     ],
     "pluginsConfig": {
         "sharing": {
