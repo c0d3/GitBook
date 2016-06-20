@@ -4,7 +4,8 @@
         "audio_image",
         "autosize-iframe",
         "base",
-        "catalog"
+        "catalog",
+        "customheader"
     ],
     "pluginsConfig": {}
 }
