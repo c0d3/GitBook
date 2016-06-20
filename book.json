@@ -43,7 +43,8 @@
         "lexicon",
         "indexes",
         "headers",
-        "autocover"
+        "autocover",
+        "edit-link"
     ],
     "pluginsConfig": {
         "sharing": {
