@@ -27,7 +27,8 @@
         "theme-faq",
         "toolbar",
         "share",
-        "sharing"
+        "sharing",
+        "simple"
     ],
     "pluginsConfig": {
         "sharing": {
