@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* SHORTCUTS
+* [SHORTCUTS](shortcuts.md)
 
