@@ -26,7 +26,8 @@
         "theme-creative",
         "theme-faq",
         "toolbar",
-        "share"
+        "share",
+        "sharing"
     ],
     "pluginsConfig": {}
 }
