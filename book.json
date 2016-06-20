@@ -20,6 +20,8 @@
         "scripts",
         "sitemap",
         "styles-less",
+        "styles": {
+        "pdf": "./styles/pdf.less",
         "styleguide",
         "tabs",
         "theme-api",
