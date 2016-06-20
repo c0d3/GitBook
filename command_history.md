@@ -1,4 +1,7 @@
+# 
 # COMMAND HISTORY
+
+
 
 | history n | Shows the stuff typed - add a number to limit the last n items |
 | ctrl-r | Interactively search through previously typed commands |
