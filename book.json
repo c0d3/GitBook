@@ -29,7 +29,8 @@
         "share",
         "sharing",
         "simple",
-        "structured-toc"
+        "structured-toc",
+        "terminus"
     ],
     "pluginsConfig": {
         "sharing": {
