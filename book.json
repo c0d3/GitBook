@@ -46,7 +46,8 @@
         "autocover",
         "edit-link",
         "rss",
-        "github-buttons"
+        "github-buttons",
+        "add-tag-to-parent"
     ],
     "pluginsConfig": {
         "sharing": {
