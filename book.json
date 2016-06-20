@@ -39,7 +39,8 @@
         "mystyle",
         "livereload",
         "lexicon",
-        "indexes"
+        "indexes",
+        "headers"
     ],
     "pluginsConfig": {
         "sharing": {
