@@ -11,7 +11,8 @@
         "facebook",
         "gitbook-footer",
         "fontsettings",
-        "github"
+        "github",
+        "layout"
     ],
     "pluginsConfig": {}
 }
