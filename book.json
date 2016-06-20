@@ -1,4 +1,6 @@
 {
+    "root": "./docs"
+}{
     "plugins": [
         "anchors-wrapper",
         "audio_image",
