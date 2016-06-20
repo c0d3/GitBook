@@ -1,4 +1,7 @@
+# 
 # CORE COMMANDS
+
+
 
 | cd | Home directory |
 | cd [folder] | Change directory |
