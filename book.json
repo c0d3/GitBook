@@ -2,8 +2,8 @@
     "root": "./docs",
     "plugins": [
     "styles-less",
-    "styles": {
-        "pdf": "./styles/pdf.less",
+    "styles":
+    "pdf": "./styles/pdf.less",
         "anchors-wrapper",
         "audio_image",
         "autosize-iframe",
