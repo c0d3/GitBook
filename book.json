@@ -1,6 +1,5 @@
 {
     "root": "./docs"
-}
 {
     "plugins": [
         "anchors-wrapper",
