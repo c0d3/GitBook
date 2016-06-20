@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [SHORTCUTS](shortcuts.md)
-* CORE COMMANDS
+* [CORE COMMANDS](core_commands.md)
 
