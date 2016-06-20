@@ -23,7 +23,8 @@
         "tabs",
         "theme-api",
         "theme-creative",
-        "theme-faq"
+        "theme-faq",
+        "toolbar"
     ],
     "pluginsConfig": {}
 }
