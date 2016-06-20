@@ -5,5 +5,5 @@
 * [CORE COMMANDS](core_commands.md)
 * [COMMAND HISTORY](command_history.md)
 * [FILE MANAGEMENT](file_management.md)
-* DIRECTORY MANAGEMENT
+* [DIRECTORY MANAGEMENT](directory_management.md)
 
