@@ -19,7 +19,8 @@
         "scripts",
         "sitemap",
         "styles-less",
-        "styleguide"
+        "styleguide",
+        "tabs"
     ],
     "pluginsConfig": {}
 }
