@@ -1,4 +1,7 @@
+# 
 # DIRECTORY MANAGEMENT
+
+
 
 | mkdir [dir] | Create new directory |
 | mkdir -p [dir]/[dir] | Create nested directories |
