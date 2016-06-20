@@ -18,7 +18,8 @@
         "redirect",
         "scripts",
         "sitemap",
-        "styles-less"
+        "styles-less",
+        "styleguide"
     ],
     "pluginsConfig": {}
 }
