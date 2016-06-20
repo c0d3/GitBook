@@ -10,7 +10,8 @@
         "extend-default-theme",
         "facebook",
         "gitbook-footer",
-        "fontsettings"
+        "fontsettings",
+        "github"
     ],
     "pluginsConfig": {}
 }
