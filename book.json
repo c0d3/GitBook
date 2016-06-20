@@ -36,7 +36,8 @@
         "theme-default",
         "responsive-iframes",
         "printlinks",
-        "mystyle"
+        "mystyle",
+        "livereload"
     ],
     "pluginsConfig": {
         "sharing": {
