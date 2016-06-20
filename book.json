@@ -13,7 +13,8 @@
         "fontsettings",
         "github",
         "layout",
-        "packt-fontsettings"
+        "packt-fontsettings",
+        "pdf-styling"
     ],
     "pluginsConfig": {}
 }
