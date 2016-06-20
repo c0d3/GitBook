@@ -22,7 +22,8 @@
         "styleguide",
         "tabs",
         "theme-api",
-        "theme-creative"
+        "theme-creative",
+        "theme-faq"
     ],
     "pluginsConfig": {}
 }
