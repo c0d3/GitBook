@@ -1,4 +1,4 @@
-## Terminal-Cheatsheet-for-Mac-(-basics-)
+### Terminal-Cheatsheet-for-Mac-(-basics-)
 
 1. * [SHORTCUTS](shortcuts.md)
 2. * [CORE COMMANDS](core_commands.md)
