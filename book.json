@@ -21,7 +21,8 @@
         "styles-less",
         "styleguide",
         "tabs",
-        "theme-api"
+        "theme-api",
+        "theme-creative"
     ],
     "pluginsConfig": {}
 }
