@@ -55,6 +55,10 @@
             "instapaper": false,
             "vk": false,
             "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "edit-link": {
+            "base": "https://github.com/c0d3/GitBook",
+            "label": "Edit This Page"
         }
     }
 }
