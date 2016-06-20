@@ -5,7 +5,8 @@
         "autosize-iframe",
         "base",
         "catalog",
-        "customheader"
+        "customheader",
+        "customtheme"
     ],
     "pluginsConfig": {}
 }
