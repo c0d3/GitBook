@@ -3,7 +3,8 @@
         "anchors-wrapper",
         "audio_image",
         "autosize-iframe",
-        "base"
+        "base",
+        "catalog"
     ],
     "pluginsConfig": {}
 }
