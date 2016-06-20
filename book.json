@@ -17,7 +17,8 @@
         "pdf-styling",
         "redirect",
         "scripts",
-        "sitemap"
+        "sitemap",
+        "styles-less"
     ],
     "pluginsConfig": {}
 }
