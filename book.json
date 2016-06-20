@@ -1,7 +1,6 @@
 {
     "root": "./docs",
     "plugins": [
-        "anchors"
         "anchors-wrapper",
         "audio_image",
         "autosize-iframe",
@@ -45,7 +44,8 @@
         "indexes",
         "headers",
         "autocover",
-        "edit-link"
+        "edit-link",
+        "rss"
     ],
     "pluginsConfig": {
         "sharing": {
