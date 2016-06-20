@@ -1,6 +1,12 @@
+# 
 # SHORTCUTS
 
-{background:#ddd}. |_. Key/Command |_. Description |
+
+
+
+> ```{background:#ddd}```. |_. Key/Command |_. Description |
+
+
 | Ctrl + A | Go to the beginning of the line you are currently typing on |
 | Ctrl + E | Go to the end of the line you are currently typing on |
 | Ctrl + L | Clears the Screen |
