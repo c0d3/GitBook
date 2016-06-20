@@ -47,7 +47,8 @@
         "edit-link",
         "rss",
         "github-buttons",
-        "add-tag-to-parent"
+        "add-tag-to-parent",
+        "anchor-navigation"
     ],
     "pluginsConfig": {
         "sharing": {
