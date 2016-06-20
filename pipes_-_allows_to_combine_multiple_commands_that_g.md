@@ -1,4 +1,7 @@
+# 
 # PIPES
+
+
 ####Allows to combine multiple commands that generate output
 
 | more | Output content delivered in screensize chunks |
