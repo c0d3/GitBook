@@ -40,7 +40,8 @@
         "livereload",
         "lexicon",
         "indexes",
-        "headers"
+        "headers",
+        "autocover"
     ],
     "pluginsConfig": {
         "sharing": {
