@@ -14,7 +14,8 @@
         "github",
         "layout",
         "packt-fontsettings",
-        "pdf-styling"
+        "pdf-styling",
+        "redirect"
     ],
     "pluginsConfig": {}
 }
