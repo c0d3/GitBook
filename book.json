@@ -20,7 +20,8 @@
         "sitemap",
         "styles-less",
         "styleguide",
-        "tabs"
+        "tabs",
+        "theme-api"
     ],
     "pluginsConfig": {}
 }
