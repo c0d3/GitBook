@@ -1,7 +1,8 @@
 {
     "plugins": [
         "anchors-wrapper",
-        "audio_image"
+        "audio_image",
+        "autosize-iframe"
     ],
     "pluginsConfig": {}
 }
