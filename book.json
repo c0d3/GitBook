@@ -8,7 +8,8 @@
         "customheader",
         "customtheme",
         "extend-default-theme",
-        "facebook"
+        "facebook",
+        "gitbook-footer"
     ],
     "pluginsConfig": {}
 }
