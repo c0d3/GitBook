@@ -48,7 +48,8 @@
         "rss",
         "github-buttons",
         "add-tag-to-parent",
-        "anchor-navigation"
+        "anchor-navigation",
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "sharing": {
