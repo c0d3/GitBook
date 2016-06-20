@@ -38,7 +38,8 @@
         "printlinks",
         "mystyle",
         "livereload",
-        "lexicon"
+        "lexicon",
+        "indexes"
     ],
     "pluginsConfig": {
         "sharing": {
