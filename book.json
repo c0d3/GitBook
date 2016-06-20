@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "anchors-wrapper"
+        "anchors-wrapper",
+        "audio_image"
     ],
     "pluginsConfig": {}
 }
