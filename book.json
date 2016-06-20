@@ -33,7 +33,8 @@
         "terminus",
         "test",
         "theme-official",
-        "theme-default"
+        "theme-default",
+        "responsive-iframes"
     ],
     "pluginsConfig": {
         "sharing": {
