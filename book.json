@@ -31,7 +31,8 @@
         "simple",
         "structured-toc",
         "terminus",
-        "test"
+        "test",
+        "theme-official"
     ],
     "pluginsConfig": {
         "sharing": {
