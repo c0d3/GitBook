@@ -6,7 +6,8 @@
         "base",
         "catalog",
         "customheader",
-        "customtheme"
+        "customtheme",
+        "extend-default-theme"
     ],
     "pluginsConfig": {}
 }
