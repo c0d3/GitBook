@@ -15,7 +15,8 @@
         "layout",
         "packt-fontsettings",
         "pdf-styling",
-        "redirect"
+        "redirect",
+        "scripts"
     ],
     "pluginsConfig": {}
 }
